@@ -2,7 +2,7 @@
 Key-Value database implementation using Django
 
 ## To install
-Install pip (https://pip.pypa.io/en/stable/installation/)
+Install python (https://www.python.org/) and pip (https://pip.pypa.io/en/stable/installation/) if not already installed
 
 then
 
